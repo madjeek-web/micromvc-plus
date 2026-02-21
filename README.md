@@ -357,16 +357,12 @@ bank transfers, real-time notifications, task management with state,
 live profile editing with once(), the event log debugger, and publishAsync.
 
 - Demo 1 :
-
 The demo file is `demo.html`. Open it directly in a browser alongside `micromvc-plus.js`.
-It is also deployed at :  [texte](https://madjeek-web.github.io/demo.html)
-
+It is also deployed at : <a href="https://madjeek-web.github.io/demo.html" target="_blank">https://madjeek-web.github.io/demo.html</a>
 
 - Demo 2 :
-Standalone demo HTML file, with the library integrated directly into it in a single line. No external dependency, this html file is sufficient by itself :
-The file is called demo-standalone-self-contained.html
-The library is integrated directly into the <head> in a single <script>tag. Zero external dependency : [texte](https://madjeek-web.github.io/demo-standalone-self-contained.html)
-
+Standalone demo HTML file, with the library integrated directly into it in a single line. No external dependency, this html file is sufficient by itself.
+The file is called `demo-standalone-self-contained.html`. The library is integrated directly into the `<head>` in a single `<script>` tag. Zero external dependency : <a href="https://madjeek-web.github.io/demo-standalone-self-contained.html" target="_blank">https://madjeek-web.github.io/demo-standalone-self-contained.html</a>
 
 
 ---
