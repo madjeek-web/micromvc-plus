@@ -638,8 +638,7 @@ But if you understood microMVC+, you understood the principle behind all these t
 
 ---
 
-**Ok, I found this project online on GitHub. Why put your code there ?
-Who is it useful for ?**
+**This project and these codes, for whom are they useful ?**
 
 GitHub is like YouTube but for code.
 Developers put their projects there for several reasons.
