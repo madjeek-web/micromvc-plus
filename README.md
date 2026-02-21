@@ -360,6 +360,8 @@ The demo file is `demo.html`. Open it directly in a browser alongside `micromvc-
 
 It is also deployed at : https://github.com/madjeek-web/madjeek-web.github.io
 
+Standalone demo HTML file, with the library integrated directly into it in a single line. No external dependency, this html file is sufficient by itself :
+
 ---
 
 ## When should you use microMVC+ ?
