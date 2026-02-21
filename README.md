@@ -73,7 +73,7 @@ Encourage your students to read micromvc-plus.js from top to bottom before using
 
 ---
 
-## What is new in version 1.0.0 ?
+## version 1.0.0 :
 
 | Feature | First version | microMVC+ v1.0.0 |
 |---|---|---|
