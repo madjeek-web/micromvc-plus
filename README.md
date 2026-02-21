@@ -386,9 +386,7 @@ If yes, use microMVC+. If your page is purely static, you do not need it.
 
 ## FAQ : real questions, real answers
 
-The section below is a real conversation between a complete beginner and the author of this README.
-The questions have been corrected for spelling but kept word for word. The answers are identical
-to what was said during that conversation. Nothing was reformulated.
+The section below is a real conversation between a beginner and Fabien Conéjéro.
 
 This is the most honest documentation possible.
 
