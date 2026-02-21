@@ -1,0 +1,36 @@
+{
+    "name"        : "micromvc-plus",
+    "version"     : "1.0.0",
+    "description" : "A modern, zero-dependency JavaScript MVC micro-framework. Built from scratch for 2026.",
+    "main"        : "micromvc-plus.js",
+    "scripts"     : {
+        "test" : "echo \"No test runner configured yet. Run demo.html in a browser.\""
+    },
+    "keywords" : [
+        "mvc",
+        "framework",
+        "javascript",
+        "micro",
+        "frontend",
+        "zero-dependency",
+        "publish-subscribe",
+        "pubsub",
+        "lightweight"
+    ],
+    "author"      : "Fabien Conéjéro",
+    "license"     : "MIT",
+    "repository"  : {
+        "type" : "git",
+        "url"  : "https://github.com/madjeek-web/micromvc-plus"
+    },
+    "bugs" : {
+        "url" : "https://github.com/madjeek-web/micromvc-plus/issues"
+    },
+    "homepage"    : "https://github.com/madjeek-web/micromvc-plus#readme",
+    "files"       : [
+        "micromvc-plus.js",
+        "README.md",
+        "LICENSE",
+        "SECURITY.md"
+    ]
+}
